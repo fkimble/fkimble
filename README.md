@@ -55,5 +55,4 @@ I am especially interested in work where technical analysis connects directly to
 
 - Portfolio website: [fkimble.github.io/digital_resume](https://fkimble.github.io/digital_resume/)
 - LinkedIn: [linkedin.com/in/fkimble1](https://www.linkedin.com/in/fkimble1/)
-- GitHub: [github.com/fkimble](https://github.com/fkimble)
-- Email: [fkimble1@umbc.edu](mailto:fkimble1@umbc.edu)
+- Email: [farell.kimble@gmail.com](mailto:farell.kimble@gmail.com)
